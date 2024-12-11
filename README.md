@@ -13,7 +13,7 @@ Use the scheduler by entering the days and time your available throughout your t
 The calander can be accessed on the homepage and you can view all weekly and one-time volunteer oppurtunites in one place to help get an idea of how you can help.
 
 > [!NOTE]
-> Single-time volunteer oppurtunites will only be available to view if manually entered into the system.
+> Single-time volunteer oppurtunites will only be available to view if manually entered into the system by a collaborator.
 ## **Our Collaborators**
 ### **Admins**
 Dylan Henderson
